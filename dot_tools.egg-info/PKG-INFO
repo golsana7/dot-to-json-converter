@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: dot-tools
+Version: 0.1
+Summary: Parser and Generator for the graphviz dot language.
+Home-page: http://hackthology.com
+Author: Tim Henderson
+Author-email: tadh@case.edu
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: unix
+Provides: dot_tools
